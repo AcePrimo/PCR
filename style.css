@@ -1,0 +1,70 @@
+/* style.css */
+
+* {
+    background-color: black
+}
+
+.title,
+.header,
+.header2,
+.header3,
+.para,
+.list {
+    color: white;
+}
+
+.title,
+.header,
+.header2,
+.header3 {
+    text-align: center;
+}
+
+.title,
+.header,
+.header2,
+.header3,
+.para,
+.list {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+.blue1 {
+    color: aqua
+}
+
+.blue2 {
+    color: cornflowerblue
+}
+
+.blue3 {
+    color: lightskyblue
+}
+
+.red {
+    color: red
+}
+
+.orange {
+    color: orange
+}
+
+.green1 {
+    color: greenyellow
+}
+
+.green2 {
+    color: green
+}
+
+.purple {
+    color: blueviolet
+}
+
+.brown {
+    color: brown
+}
+
+.yellow {
+    color: yellow
+}
